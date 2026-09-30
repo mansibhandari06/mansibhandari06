@@ -61,7 +61,7 @@ DHT11 ──► Arduino Uno
 
 ## Currently Learning
 
-Embedded Systems · Embedded C/C++ · SPI / I2C / UART · Data Structures & Algorithms · Operating Systems · Computer Networks · Software Engineering
+Embedded Systems · Embedded C/C++ · SPI / I2C / UART · Data Structures & Algorithms
 
 ## What I'm Building Toward
 
