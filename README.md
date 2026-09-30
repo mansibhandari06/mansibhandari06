@@ -28,8 +28,8 @@ What I enjoy most is understanding how electronics, firmware and software fit to
 |---|---|
 | **Languages** | `C` `C++` `Python` `JavaScript` |
 | **Embedded Systems** | `Arduino` `ESP32` `Embedded C/C++` `UART` `SPI` `I2C` `PlatformIO` `Wokwi` |
-| **Software / Web** | `HTML` `CSS` `JavaScript` `React` `Next.js` `Node.js` `Express` `FastAPI` |
-| **Databases** | `MongoDB` `PostgreSQL` |
+| **Software / Web** | `HTML` `CSS` `JavaScript` `React` `Next.js` `Node.js` `FastAPI` |
+| **Databases** | `PostgreSQL` |
 | **Tools** | `Git` `GitHub` `VS Code` `Figma` |
 
 ## Featured Projects
