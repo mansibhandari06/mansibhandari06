@@ -37,14 +37,12 @@ What I enjoy most is understanding how electronics, firmware and software fit to
 ### MPLADS AI Shield
 A monitoring and risk-assessment platform for MPLADS project data, designed to identify potential financial, payment, execution and anomaly-related risks. *Team project.*
 
-**My contribution:** [Add my specific contribution here]
 **Tech:** `Python` `FastAPI` `PostgreSQL` `Scikit-learn` `XGBoost` `FAISS` `React` `Next.js`
 🔗 [Repository](https://github.com/Aakriti0207/MPLADS-AI-Shield)
 
 ### RoomieMatch
 A web application designed to help students find compatible roommates based on their preferences and requirements. *Team project.*
 
-**My contribution:** [Add my specific contribution here]
 **Tech:** `JavaScript` `React` `Vite`
 🔗 [Repository](https://github.com/nishthaasood/RoomieMatch) · [Live demo](https://roomie-match-chi.vercel.app/)
 
@@ -86,6 +84,5 @@ The goal is to understand the whole path from hardware to software, not just one
 I'm looking for internships in embedded systems and software development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2B2620?style=flat-square&logo=linkedin&logoColor=C8A27C)](https://www.linkedin.com/in/mansibhandari06)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2B2620?style=flat-square&logo=googlechrome&logoColor=C8A27C)](YOUR-PORTFOLIO)
 [![Email](https://img.shields.io/badge/Email-2B2620?style=flat-square&logo=gmail&logoColor=C8A27C)](mailto:mansibhandari2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-2B2620?style=flat-square&logo=github&logoColor=C8A27C)](https://github.com/mansibhandari06)
