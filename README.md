@@ -6,7 +6,13 @@
 
 Building at the intersection of **Embedded Systems** and **Software Development**.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=440&height=32&lines=Embedded+Systems;Embedded+C%2FC%2B%2B;Arduino+%2F+ESP32;UART+%E2%80%A2+SPI+%E2%80%A2+I2C;Software+Development" alt="Embedded Systems, Embedded C/C++, Arduino / ESP32, UART, SPI, I2C, Software Development" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=7C9A6D&center=true&vCenter=true&width=440&height=32&lines=Embedded+Systems;Embedded+C%2FC%2B%2B;Arduino+%2F+ESP32;UART+%E2%80%A2+SPI+%E2%80%A2+I2C;Software+Development" alt="Embedded Systems, Embedded C/C++, Arduino / ESP32, UART, SPI, I2C, Software Development" />
+
+<br>
+
+<a href="#about-me">About</a> · <a href="#tech-stack">Stack</a> · <a href="#featured-projects">Projects</a> · <a href="#currently-learning">Learning</a> · <a href="#connect-with-me">Connect</a>
+
+<img src="https://raw.githubusercontent.com/mansibhandari06/mansibhandari06/main/assets/divider.svg" width="70%" alt="" />
 
 </div>
 
@@ -29,29 +35,20 @@ What I enjoy most is understanding how electronics, firmware and software fit to
 ## Featured Projects
 
 ### MPLADS AI Shield
-
-A monitoring and risk-assessment platform for MPLADS project data, designed to identify potential financial, payment, execution and anomaly-related risks. Team project.
+A monitoring and risk-assessment platform for MPLADS project data, designed to identify potential financial, payment, execution and anomaly-related risks. *Team project.*
 
 **My contribution:** [Add my specific contribution here]
-
-**Tech:**
-`Python` `FastAPI` `PostgreSQL` `Scikit-learn` `XGBoost` `FAISS` `React` `Next.js`
-
+**Tech:** `Python` `FastAPI` `PostgreSQL` `Scikit-learn` `XGBoost` `FAISS` `React` `Next.js`
 🔗 [Repository](https://github.com/Aakriti0207/MPLADS-AI-Shield)
 
 ### RoomieMatch
-
-A web application designed to help students find compatible roommates based on their preferences and requirements. Team project.
+A web application designed to help students find compatible roommates based on their preferences and requirements. *Team project.*
 
 **My contribution:** [Add my specific contribution here]
-
-**Tech:**
-`JavaScript` `React` `Vite`
-
+**Tech:** `JavaScript` `React` `Vite`
 🔗 [Repository](https://github.com/nishthaasood/RoomieMatch) · [Live demo](https://roomie-match-chi.vercel.app/)
 
 ### Environmental Monitoring System *(in progress)*
-
 An Arduino Uno-based system that reads temperature and humidity from a DHT11 sensor, shows the readings on an OLED display and supports serial monitoring. Currently being prototyped in Tinkercad.
 
 ```text
@@ -61,9 +58,7 @@ DHT11 ──► Arduino Uno
           └── SPI  → Data logging (planned)
 ```
 
-**Tech:**
-`Arduino Uno` `Embedded C/C++` `DHT11` `OLED` `I2C` `UART` `Tinkercad`
-
+**Tech:** `Arduino Uno` `Embedded C/C++` `DHT11` `OLED` `I2C` `UART` `Tinkercad`
 🔗 Repository: coming soon
 
 ## Currently Learning
@@ -72,19 +67,9 @@ Embedded Systems · Embedded C/C++ · SPI / I2C / UART · Data Structures & Algo
 
 ## What I'm Building Toward
 
-```text
-Embedded Systems
-        ↓
-Firmware + C/C++
-        ↓
-Sensors + Microcontrollers
-        ↓
-UART / SPI / I2C
-        ↓
-Software Integration
-        ↓
-Backend + Web Applications
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mansibhandari06/mansibhandari06/main/assets/pipeline.svg" width="340" alt="Path from hardware to software: Embedded Systems, Firmware and C/C++, Sensors and Microcontrollers, UART / SPI / I2C, Software Integration, Backend and Web Applications" />
+</div>
 
 The goal is to understand the whole path from hardware to software, not just one layer of it.
 
@@ -98,7 +83,9 @@ The goal is to understand the whole path from hardware to software, not just one
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/mansibhandari06)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF)](YOUR-PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:mansibhandari2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/mansibhandari06)
+I'm looking for internships in embedded systems and software development.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2B2620?style=flat-square&logo=linkedin&logoColor=C8A27C)](https://www.linkedin.com/in/mansibhandari06)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2B2620?style=flat-square&logo=googlechrome&logoColor=C8A27C)](YOUR-PORTFOLIO)
+[![Email](https://img.shields.io/badge/Email-2B2620?style=flat-square&logo=gmail&logoColor=C8A27C)](mailto:mansibhandari2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2B2620?style=flat-square&logo=github&logoColor=C8A27C)](https://github.com/mansibhandari06)
