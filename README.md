@@ -1,16 +1,104 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mansibhandari06/mansibhandari06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mansi Bhandari 👋
 
-Here are some ideas to get you started:
+### Electrical & Electronics Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building at the intersection of **Embedded Systems** and **Software Development**.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=440&height=32&lines=Embedded+Systems;Embedded+C%2FC%2B%2B;Arduino+%2F+ESP32;UART+%E2%80%A2+SPI+%E2%80%A2+I2C;Software+Development" alt="Embedded Systems, Embedded C/C++, Arduino / ESP32, UART, SPI, I2C, Software Development" />
+
+</div>
+
+## About Me
+
+I'm an EEE student learning embedded systems and C/C++, and building software projects alongside that.
+
+What I enjoy most is understanding how electronics, firmware and software fit together: how a sensor reading gets from a microcontroller, over a protocol like UART, SPI or I2C, into a program that can use it. I'm currently working on an Arduino-based environmental monitor and want to go deeper into sensors, microcontrollers and communication protocols.
+
+## Tech Stack
+
+| | |
+|---|---|
+| **Languages** | `C` `C++` `Python` `JavaScript` |
+| **Embedded Systems** | `Arduino` `ESP32` `Embedded C/C++` `UART` `SPI` `I2C` `PlatformIO` `Wokwi` |
+| **Software / Web** | `HTML` `CSS` `JavaScript` `React` `Next.js` `Node.js` `Express` `FastAPI` |
+| **Databases** | `MongoDB` `PostgreSQL` |
+| **Tools** | `Git` `GitHub` `VS Code` `Figma` |
+
+## Featured Projects
+
+### MPLADS AI Shield
+
+A monitoring and risk-assessment platform for MPLADS project data, designed to identify potential financial, payment, execution and anomaly-related risks. Team project.
+
+**My contribution:** [Add my specific contribution here]
+
+**Tech:**
+`Python` `FastAPI` `PostgreSQL` `Scikit-learn` `XGBoost` `FAISS` `React` `Next.js`
+
+🔗 [Repository](https://github.com/Aakriti0207/MPLADS-AI-Shield)
+
+### RoomieMatch
+
+A web application designed to help students find compatible roommates based on their preferences and requirements. Team project.
+
+**My contribution:** [Add my specific contribution here]
+
+**Tech:**
+`JavaScript` `React` `Vite`
+
+🔗 [Repository](https://github.com/nishthaasood/RoomieMatch) · [Live demo](https://roomie-match-chi.vercel.app/)
+
+### Environmental Monitoring System *(in progress)*
+
+An Arduino Uno-based system that reads temperature and humidity from a DHT11 sensor, shows the readings on an OLED display and supports serial monitoring. Currently being prototyped in Tinkercad.
+
+```text
+DHT11 ──► Arduino Uno
+          ├── I2C  → OLED display
+          ├── UART → Serial monitor
+          └── SPI  → Data logging (planned)
+```
+
+**Tech:**
+`Arduino Uno` `Embedded C/C++` `DHT11` `OLED` `I2C` `UART` `Tinkercad`
+
+🔗 Repository: coming soon
+
+## Currently Learning
+
+Embedded Systems · Embedded C/C++ · SPI / I2C / UART · Data Structures & Algorithms · Operating Systems · Computer Networks · Software Engineering
+
+## What I'm Building Toward
+
+```text
+Embedded Systems
+        ↓
+Firmware + C/C++
+        ↓
+Sensors + Microcontrollers
+        ↓
+UART / SPI / I2C
+        ↓
+Software Integration
+        ↓
+Backend + Web Applications
+```
+
+The goal is to understand the whole path from hardware to software, not just one layer of it.
+
+## Goals
+
+- Build practical embedded systems projects
+- Strengthen C/C++ and software engineering fundamentals
+- Work with microcontrollers, sensors and communication protocols
+- Contribute to open source
+- Explore opportunities at the intersection of EEE and Computer Science
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/mansibhandari06)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF)](YOUR-PORTFOLIO)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:mansibhandari2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/mansibhandari06)
