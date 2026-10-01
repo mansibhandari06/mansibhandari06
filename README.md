@@ -1,27 +1,18 @@
 <div align="center">
 
-# Hi, I'm Mansi Bhandari🌻
+# Hi, I'm Mansi Bhandari 🌻
 
-### EEE Student · Embedded Systems · Software Development
+EEE Student · Embedded Systems · Software Development
 
 Building with **microcontrollers, communication protocols, and code.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=1000&color=7C9A6D&center=true&vCenter=true&width=480&height=32&lines=Embedded+Systems;Embedded+C%2FC%2B%2B;Arduino+%2F+ESP32;UART+%E2%80%A2+SPI+%E2%80%A2+I2C;Software+Development" alt="Embedded Systems, Embedded C/C++, Arduino, ESP32, UART, SPI, I2C, Software Development" />
-
-<br><br>
-
-<a href="#about">About</a> ·
-<a href="#projects">Projects</a> ·
-<a href="#skills">Skills</a> ·
-<a href="#currently-building">Currently Building</a> ·
-<a href="#currently-learning">Currently Learning</a> ·
-<a href="#connect">Connect</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=1000&color=7C9A6D&center=true&vCenter=true&width=480&height=32&lines=Embedded+Systems;Embedded+C%2FC%2B%2B;Arduino+%2F+ESP32;UART+%E2%80%A2+SPI+%E2%80%A2+I2C;Software+Development" />
 
 </div>
 
 ---
 
-##  About
+**👩‍💻 About**
 
 I'm an **Electrical & Electronics Engineering student** interested in building projects with **microcontrollers, electronics, and software**.
 
@@ -36,7 +27,7 @@ Currently focused on:
 
 I learn primarily by **building, experimenting, and debugging**.
 
-###  Open to Opportunities
+**💼 Open to Opportunities**
 
 I'm currently open to:
 
@@ -48,9 +39,9 @@ I'm currently open to:
 
 ---
 
-## 🚀 Projects
+**🚀 Projects**
 
-### 🛡️ MPLADS AI Shield
+**🛡️ MPLADS AI Shield**
 
 **Risk Monitoring Platform · Team Project**
 
@@ -65,7 +56,7 @@ A platform for analysing MPLADS project data and identifying potential financial
 
 ---
 
-### 🏠 RoomieMatch
+**🏠 RoomieMatch**
 
 **Roommate Matching Web Application · Team Project**
 
@@ -80,7 +71,7 @@ A web application designed to help students find compatible roommates based on t
 
 ---
 
-### 🌡️ Environmental Monitoring System
+**🌡️ Environmental Monitoring System**
 
 **Embedded Systems Project · In Progress**
 
@@ -100,41 +91,41 @@ Building an Arduino Uno-based environmental monitoring system for measuring temp
 
 `Arduino Uno` `Embedded C/C++` `DHT11` `OLED` `I2C` `UART` `Tinkercad`
 
-🔗 **Repository coming soon**
+🔗 Repository coming soon
 
 ---
 
-## 🛠️ Skills
+**🛠️ Skills**
 
-###  Programming
+**💻 Programming**
 
 `C` · `C++` · `Python` · `JavaScript`
 
-###  Embedded Systems
+**🔌 Embedded Systems**
 
 `Arduino` · `ESP32` · `Embedded C/C++` · `Microcontrollers` · `Sensors`
 
-###  Communication Protocols
+**📡 Communication Protocols**
 
 `UART` · `SPI` · `I2C`
 
-###  Software Development
+**🌐 Software Development**
 
 `HTML` · `CSS` · `React` · `Next.js`
 
-###  Tools & Platforms
+**🧰 Tools & Platforms**
 
 `Git` · `GitHub` · `VS Code` · `PlatformIO` · `Wokwi` · `Tinkercad` · `Figma`
 
-###  Computer Science
+**🧠 Computer Science**
 
 `Data Structures & Algorithms` · `Problem Solving`
 
 ---
 
-## 🔧 Currently Building
+**🔧 Currently Building**
 
-### 🌡️ Environmental Monitoring System
+**🌡️ Environmental Monitoring System**
 
 Working on:
 
@@ -147,7 +138,7 @@ Working on:
 - Arduino programming
 - Circuit simulation in Tinkercad
 
-### 🔌 Embedded Systems Practice
+**🔌 Embedded Systems Practice**
 
 Working on:
 
@@ -161,13 +152,13 @@ Working on:
 
 ---
 
-## 📚 Currently Learning
+**📚 Currently Learning**
 
 `Embedded Systems` · `Embedded C/C++` · `SPI` · `I2C` · `UART` · `Data Structures & Algorithms`
 
 ---
 
-## 📫 Connect
+**📫 Connect**
 
 I'm currently open to **internships, research opportunities, technical collaborations, and student projects** in Embedded Systems and Software Development.
 
@@ -184,17 +175,5 @@ Feel free to reach out!
 <a href="mailto:mansibhandari2006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-mansibhandari2006%40gmail.com-2B2620?style=for-the-badge&logo=gmail&logoColor=C8A27C" alt="Gmail">
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-</div>
-
----
-
-<div align="center">
 
 </div>
