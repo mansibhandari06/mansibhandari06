@@ -186,6 +186,5 @@ Feel free to reach out!
 
 <div align="center">
 
-**Build · Break · Debug · Repeat.**
 
 </div>
