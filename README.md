@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mansi Bhandari 👋
+# Hi, I'm Mansi Bhandari🌻
 
 ### EEE Student · Embedded Systems · Software Development
 
@@ -21,7 +21,7 @@ Building with **microcontrollers, communication protocols, and code.**
 
 ---
 
-## 👩‍💻 About
+##  About
 
 I'm an **Electrical & Electronics Engineering student** interested in building projects with **microcontrollers, electronics, and software**.
 
@@ -36,7 +36,7 @@ Currently focused on:
 
 I learn primarily by **building, experimenting, and debugging**.
 
-### 💼 Open to Opportunities
+###  Open to Opportunities
 
 I'm currently open to:
 
@@ -106,27 +106,27 @@ Building an Arduino Uno-based environmental monitoring system for measuring temp
 
 ## 🛠️ Skills
 
-### 💻 Programming
+###  Programming
 
 `C` · `C++` · `Python` · `JavaScript`
 
-### 🔌 Embedded Systems
+###  Embedded Systems
 
 `Arduino` · `ESP32` · `Embedded C/C++` · `Microcontrollers` · `Sensors`
 
-### 📡 Communication Protocols
+###  Communication Protocols
 
 `UART` · `SPI` · `I2C`
 
-### 🌐 Software Development
+###  Software Development
 
 `HTML` · `CSS` · `React` · `Next.js`
 
-### 🧰 Tools & Platforms
+###  Tools & Platforms
 
 `Git` · `GitHub` · `VS Code` · `PlatformIO` · `Wokwi` · `Tinkercad` · `Figma`
 
-### 🧠 Computer Science
+###  Computer Science
 
 `Data Structures & Algorithms` · `Problem Solving`
 
@@ -191,16 +191,10 @@ Feel free to reach out!
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mansibhandari06">LinkedIn →</a>
-&nbsp; · &nbsp;
-<a href="mailto:mansibhandari2006@gmail.com">Email →</a>
-
 </div>
 
 ---
 
 <div align="center">
-
-**Build · Break · Debug · Repeat.**
 
 </div>
