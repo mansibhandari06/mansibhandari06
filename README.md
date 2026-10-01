@@ -8,7 +8,7 @@
 
 <br>
 
-[About](#about) · [Projects](#projects) · [Skills](#skills) · [Currently Building](#currently-building) · [Contact](#contact)
+[About](#about) · [Projects](#projects) · [Skills](#skills) · [Currently Building](#currently-building) · [Connect](#connect)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## About
 
-I'm an Electrical & Electronics Engineering student who likes building things with **code, microcontrollers and real-world data**.
+I'm an Electrical & Electronics Engineering student who enjoys building projects with **microcontrollers, electronics and code**.
 
 Currently focused on:
 
@@ -25,9 +25,9 @@ Currently focused on:
 - UART, SPI & I2C
 - Sensors & microcontrollers
 - React / Next.js
-- Backend development
+- Problem solving & DSA
 
-I prefer learning by **building and debugging projects**, rather than just studying concepts.
+I learn primarily by **building projects, experimenting and debugging**.
 
 ---
 
@@ -37,7 +37,7 @@ I prefer learning by **building and debugging projects**, rather than just study
 
 **Risk monitoring platform for MPLADS project data · Team Project**
 
-Built a full-stack platform for analysing project data and surfacing potential financial, payment, execution and anomaly-related risks.
+A full-stack platform for analysing project data and identifying potential financial, payment, execution and anomaly-related risks.
 
 **Worked with:**
 
@@ -52,7 +52,7 @@ Built a full-stack platform for analysing project data and surfacing potential f
 
 **Roommate matching web application · Team Project**
 
-Built a web application for students to find compatible roommates based on their preferences and requirements.
+A web application designed to help students find compatible roommates based on their preferences and requirements.
 
 **Worked with:**
 
@@ -67,8 +67,6 @@ Built a web application for students to find compatible roommates based on their
 **Arduino-based embedded systems project · In Progress**
 
 Building an environmental monitoring system using an Arduino Uno and DHT11 sensor.
-
-**Current setup:**
 
 ```text
 DHT11
