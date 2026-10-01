@@ -6,7 +6,11 @@ EEE Student · Embedded Systems · Software Development
 
 Building with **microcontrollers, communication protocols, and code.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=1000&color=7C9A6D&center=true&vCenter=true&width=480&height=32&lines=Embedded+Systems;Embedded+C%2FC%2B%2B;Arduino+%2F+ESP32;UART+%E2%80%A2+SPI+%E2%80%A2+I2C;Software+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=1000&color=7C9A6D&center=true&vCenter=true&width=480&height=32&lines=Embedded+Systems;Embedded+C%2FC%2B%2B;Arduino+%2F+ESP32;UART+%E2%80%A2+SPI+%E2%80%A2+I2C;Software+Development" alt="Typing animation" />
+
+<br>
+
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 </div>
 
@@ -175,5 +179,13 @@ Feel free to reach out!
 <a href="mailto:mansibhandari2006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-mansibhandari2006%40gmail.com-2B2620?style=for-the-badge&logo=gmail&logoColor=C8A27C" alt="Gmail">
 </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Build · Break · Debug · Repeat.**
 
 </div>
